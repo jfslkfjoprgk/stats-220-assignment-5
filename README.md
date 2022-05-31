@@ -18,5 +18,6 @@ I am trying to compare the diversity in the music genre for each country. Also I
 ![song_vis](https://user-images.githubusercontent.com/101467582/170893770-cb5398e7-f7b8-4475-8271-3eacf36ff212.png)
 
 
+
 ## plot 3
 ![song_creativity](https://user-images.githubusercontent.com/101467582/171036135-b7f543ac-b908-465e-a602-a3e046976227.png)
